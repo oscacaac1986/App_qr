@@ -1,5 +1,7 @@
 {
   "name": "Lector_qr",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
